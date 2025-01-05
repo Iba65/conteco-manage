@@ -1,0 +1,93 @@
+.clientContainer {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: darkgray;
+  height: 100vh;
+  padding-top: 50px;
+  z-index: 0;
+}
+.movilContiner {
+  width: 350px;
+  min-height: calc((350 / 9) * 19.5px);
+  background-color: white;
+}
+.headerMovilContainer {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  top: 0;
+  background-color: rgba(184, 135, 11, 0.997);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+  color: whitesmoke;
+  z-index: 1;
+}
+.headerTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-width: 80%;
+}
+.headerTitle img {
+  margin-right: 10px;
+  cursor: none;
+}
+.headerClose {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+  padding: 0px 5px;
+  z-index: 2;
+}
+.bodyMovilContainer {
+  box-sizing: border-box;
+  max-height: 656px;
+  min-height: 656px;
+  width: 100%;
+  overflow-y: auto; /* Aplica scroll solo si el contenido excede el alto */
+  overflow-x: hidden; /* Evita scroll horizontal */
+}
+.menuFooterContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 60px;
+  background-color: rgba(184, 135, 11, 0.174);
+  position: relative;
+  top: 0px;
+  left: 0;
+  border: solid 1px rgba(184, 135, 11, 0.997);
+}
+.opcMenuFooter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(109, 80, 7);
+  border: solid 1px rgba(184, 135, 11, 0.997);
+  height: 100%;
+  width: 20%;
+  cursor: pointer;
+}
+.opcMenuFooter code {
+  font-weight: 700;
+  font-size: 10px;
+}
+.alertNoData {
+  box-sizing: border-box;
+  width: 95%;
+  margin: 10px auto;
+  text-align: center;
+  color: crimson;
+  font-weight: 500;
+  border: solid 1px black;
+  border-radius: 5px;
+}

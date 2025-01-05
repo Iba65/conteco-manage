@@ -1,0 +1,195 @@
+.usersFormContiner {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(79, 91, 121, 0.094);
+  height: auto;
+  min-height: 75vh;
+  border: solid 2px rgb(79, 91, 121);
+  border-radius: 20px;
+  margin: 10px auto;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  overflow: auto;
+}
+.usersFormContent {
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 95%;
+  background-color: rgb(255, 254, 254);
+  border-radius: 20px;
+  min-height: 75vh;
+}
+.usersFormHeader {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 10px 15px;
+  height: 50px;
+  border-bottom: solid 3px rgba(79, 91, 121, 0.094);
+}
+.icomen {
+  margin: auto 0px;
+}
+.usersFormTitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  height: 100%;
+}
+.usersFormBody {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 95%;
+  overflow: auto;
+}
+
+/* listado */
+.listUserContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.listUserSuper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.listUserTitle {
+  margin: 20px 10px 0px 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+}
+.listHeaderContainer {
+  margin: 0px auto;
+  box-sizing: border-box;
+  max-width: 95.1%;
+  border-top: solid 3px rgb(79, 91, 121);
+  border-bottom: solid 3px rgb(79, 91, 121);
+  display: flex;
+}
+.lhc {
+  max-width: 600px;
+}
+.histUserConten {
+  width: 100%;
+  margin: 0px auto;
+  border: solid 1px gray;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 320px;
+  max-height: 320px;
+}
+
+.viewDataMoreInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.viewData {
+  width: 100%;
+  margin: 20px 0px;
+  border-top: solid 1px gray;
+  padding-top: 10px;
+}
+.viewData label {
+  margin-right: 20px;
+  font-weight: 600;
+  display: inline-block;
+  white-space: nowrap;
+}
+.fieldRowContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.fieldViewConten {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(223, 223, 223);
+  border: solid 1.5px black;
+  border-radius: 5px;
+  padding: 3px 5px 3px 3px;
+  width: auto;
+}
+.histUserTitel {
+  margin: 10px auto;
+  font-size: 18px;
+  font-weight: 700;
+}
+.fieldViewData {
+  background-color: white;
+  min-height: 20px;
+  padding: 0px 5px;
+}
+
+.listTerryWork {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cardTerriViewCont {
+  margin: 10px;
+  border: solid 1px gray;
+  border-radius: 10px;
+  max-width: 260px;
+  padding: 10px 20px;
+}
+
+/* */
+.contentExDates {
+  margin-top: 20px;
+  border: solid 2px navy;
+  border-radius: 5px;
+}
+.headerExDates {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 3px;
+  text-align: center;
+  background-color: cornflowerblue;
+  border-bottom: solid 1px navy;
+}
+.headerExDates h3 {
+  margin: 0;
+  padding: 0px 3px;
+  text-align: center;
+  background-color: cornflowerblue;
+  color: white;
+}
+.lineExDates {
+  padding: 1px 5px;
+  border-bottom: solid 1px navy;
+  text-align: center;
+}

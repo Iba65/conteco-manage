@@ -1,0 +1,148 @@
+.bodyexhib {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 5px 20px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.listaexhib {
+  width: 20%;
+  height: 100%;
+  padding-bottom: 10px;
+}
+.cuadrantexhib {
+  width: 80%;
+}
+/**/
+.icon-react {
+  width: 60px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  background-color: #f6f8fc;
+  width: 400px;
+  min-height: 100px;
+  padding: 24px 12px;
+  border-radius: 8px;
+  border-top: 7px solid;
+  box-shadow: 0 8px 16px rgba(#333, 0.1);
+}
+.celhead {
+  display: flex;
+  flex-direction: column;
+  background-color: #e3ecfd;
+  min-height: 30px;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-top: 7px solid;
+  box-shadow: 0 8px 16px rgba(#333, 0.1);
+}
+.Lunes {
+  border-top-color: gold;
+}
+.Martes {
+  border-top-color: coral;
+}
+.Viernes {
+  border-top-color: deeppink;
+}
+.Jueves {
+  border-top-color: chartreuse;
+}
+.Sabado {
+  border-top-color: deepskyblue;
+}
+
+.column--1 {
+  border-color: #ff9e4a;
+}
+.column--1 .title {
+  color: #ff9e4a;
+}
+.column--2 {
+  border-color: #c56be2;
+}
+.column--2 .title {
+  color: #c56be2;
+}
+.column--3 {
+  border-color: #6fd2af;
+}
+.column--3 .title {
+  color: #6fd2af;
+}
+
+/* DRAG AND DROP */
+.drag-and-drop {
+  display: flex;
+  grid-gap: 40px;
+}
+.dd-zone {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 16px;
+  height: 100%;
+}
+.dd-element {
+  font-size: 18px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 26px 20px;
+  cursor: pointer;
+  color: #5b5b73;
+}
+
+.dd-element .body {
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+/* listado */
+.hnosCarritoContainer {
+  width: 90%;
+  margin: 3px auto;
+  background-color: #e3ecfd;
+  text-align: center;
+  border: solid 2px;
+  border-radius: 10px;
+}
+.hnosCarritoContainer h1 {
+  margin: 0;
+  padding: 5px;
+  font-size: 20px;
+  background-color: #e3ecfd;
+  border-radius: 10px 10px 0px 0px;
+  border-bottom: solid 2px;
+}
+.hnosCarritoBody {
+  max-height: 86vh;
+  overflow-y: scroll;
+  margin-bottom: 10px;
+  border-bottom: solid 2px black;
+}
+.dropname {
+  margin: 1px;
+  background-color: #ff9e4a;
+  border: solid 1px gray;
+  font-size: 14px;
+  cursor: pointer;
+}
+.dropaux {
+  width: 100%;
+}
+.cellcontent {
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 2px 5px;
+}

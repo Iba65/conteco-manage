@@ -1,0 +1,126 @@
+#calendar {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 5px;
+  max-width: 100%;
+  margin: auto;
+}
+.calendarHeader {
+  width: 100%;
+  margin-left: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 12px;
+}
+.header {
+  box-sizing: border-box;
+  min-width: 13.9%;
+  max-width: 13.9%;
+  font-weight: bold;
+  text-align: center;
+  background-color: rgb(177, 117, 39);
+  padding: 5px;
+  border: 1px solid #ccc;
+  color: white;
+}
+.calendarBody {
+  width: auto;
+  display: flex;
+  margin-left: 5px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 10px;
+  flex-wrap: wrap;
+}
+.day {
+  box-sizing: border-box;
+  min-width: 14.1%;
+  max-width: 14.1%;
+  border: 1px solid #ccc;
+  height: 77px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 1px;
+  background-color: #fff;
+  line-height: 9px;
+}
+.fgrey {
+  background-color: rgb(193, 192, 192);
+}
+.fgray {
+  background-color: grey;
+}
+.day span {
+  font-size: 11px;
+  font-weight: bold;
+}
+.number {
+  text-align: right;
+}
+.users {
+  width: 100%;
+  font-size: 9px;
+  text-align: left;
+}
+.usdatm {
+  background-color: rgb(231, 229, 229);
+  color: rgb(1, 100, 1);
+  border: dotted 1px gray;
+}
+.usdatt {
+  background-color: rgb(231, 229, 229);
+  color: rgb(121, 65, 1);
+  border: dotted 1px gray;
+}
+.msgnoe {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/*---------------------------------------*/
+.lensContiner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(128, 128, 128, 0.531);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  z-index: 3;
+}
+.lensDetail {
+  width: 210px;
+  height: 200px;
+  background-color: white;
+}
+.lensDetailHeader {
+  box-sizing: border-box;
+  width: auto;
+  margin: 0;
+  padding: 5px 10px 0px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 2px gray;
+  font-weight: 700;
+  background-color: burlywood;
+}
+.lensDetailBody {
+  margin: 10px;
+}
+.nomuser {
+  margin-left: 10px;
+  font-weight: 500;
+}

@@ -1,0 +1,916 @@
+{
+  "Hoja1": [
+    {
+      "Nombre": "Abraham m",
+      "usuario": "amartinez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "01/22/2024-17:44",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Abrahám S",
+      "usuario": "absanchez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/14/2024-10:33",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Adrian",
+      "usuario": "ahernandez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/11/2023-10:58",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Alaya",
+      "usuario": "acruz",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "01/07/2023-09:35",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Alfonso",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "03/20/2022-19:21",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Amelia",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/28/2020-12:19",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Ana",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "04/28/2021-12:30",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Anahit",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Angel",
+      "usuario": "asanchez",
+      "Correo electrónico": "",
+      "Tipo": 4,
+      "Última sesión": "11/03/2021-17:59",
+      "Territorios": ["3"]
+    },
+    {
+      "Nombre": "Angie",
+      "usuario": "asalceda",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/20/2024-11:41",
+      "Territorios": ["3"]
+    },
+    {
+      "Nombre": "Antonia C",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Antonia L",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/05/2020-14:23",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Antonia M",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Camila",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Carmen F",
+      "usuario": "cferrer",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/26/2023-10:56",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Carmen L",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Carmen S",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Concha N",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Concha R",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "02/10/2022-11:35",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Congregación Rumana",
+      "usuario": "dmedina",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "02/10/2024-10:32",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Consuelo",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Cristina M",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "07/30/2022-11:03",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Cristina R",
+      "usuario": "cristinaros",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Eduardo",
+      "usuario": "garciae",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "07/28/2024-08:16",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Edurne",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Erika",
+      "usuario": "egonzalez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/19/2024-10:21",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Esther",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "04/04/2022-18:15",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Filomena",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Florence",
+      "usuario": "fros",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "11/02/2023-10:08",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Francisco",
+      "usuario": "fromero",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "01/05/2024-17:15",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "German",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Giorgia",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/06/2020-19:56",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Gisela",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Herminia",
+      "usuario": "hcuenca",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/14/2024-10:49",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Ignacio",
+      "usuario": "iballester",
+      "Correo electrónico": "n*****************5@g****.com",
+      "Tipo": 3,
+      "Última sesión": "09/22/2024-13:48",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Ines",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Iris",
+      "usuario": "igonzalez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/23/2024-10:18",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Isaac",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/07/2020-18:48",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Isabel",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/01/2021-20:14",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Javier",
+      "usuario": "jrodes",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "02/29/2024-21:34",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Javier",
+      "usuario": "jillan",
+      "Correo electrónico": "a***********i@h******.com",
+      "Tipo": 3,
+      "Última sesión": "09/14/2024-10:54",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Javier G",
+      "usuario": "jgimenez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/12/2024-10:54",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Jennifer",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/06/2020-18:51",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Jesus",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/14/2020-18:19",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Johanna",
+      "usuario": "jsanisaca",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "08/16/2024-19:15",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Jonatan",
+      "usuario": "jsierras",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "08/31/2024-10:25",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Jose C",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "José J",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Jose L",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Jose M",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Josefa",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Josué",
+      "usuario": "rosj",
+      "Correo electrónico": "j************o@g****.com",
+      "Tipo": 3,
+      "Última sesión": "08/09/2024-16:22",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Jozef Daneels",
+      "usuario": "jdaneels",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/11/2024-14:01",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Juan G",
+      "usuario": "jgonzalez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "06/28/2024-17:58",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Juan L",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "09/09/2022-09:19",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Juan R",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Juan S",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Juan Sanchez",
+      "usuario": "",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/15/2024-20:05",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Judith",
+      "usuario": "garciaj",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "08/08/2024-10:31",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Julian",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/05/2020-11:28",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Keren",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/12/2021-11:55",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Laura",
+      "usuario": "lmedina",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "06/16/2024-11:03",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Libertad",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/30/2020-19:35",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Lidia",
+      "usuario": "lromero",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "07/15/2023-10:29",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Lissette",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "04/19/2022-16:02",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Liz",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Loli",
+      "usuario": "llozano",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "10/23/2023-14:26",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Loli B",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Loli M",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Loli S",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/30/2020-18:53",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Loreley",
+      "usuario": "larmero",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "12/18/2023-16:36",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Maira",
+      "usuario": "msierras",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "08/05/2024-11:07",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Manoli",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "01/29/2022-19:08",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Manuel B",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Manuel G",
+      "usuario": "mgomis",
+      "Correo electrónico": "m**************a@g****.com",
+      "Tipo": 3,
+      "Última sesión": "09/18/2024-07:21",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Manuel L",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "03/29/2022-11:18",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Marce",
+      "usuario": "marcep",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/26/2023-17:02",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Marga G",
+      "usuario": "mgimenez",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "06/26/2024-21:38",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Marga R",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "02/13/2021-11:34",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Mari Carmen B",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "08/05/2022-20:53",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Mari L",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/06/2020-18:39",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Mari R",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Maria A",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "01/05/2021-18:10",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Maria I",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/01/2021-20:03",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Maria J",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/06/2020-18:52",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Maria J",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/02/2022-09:47",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Marlene",
+      "usuario": "maldas",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/14/2024-10:23",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Marta",
+      "usuario": "martau",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "02/23/2023-10:08",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Mauricio",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/05/2020-11:14",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Miguel M",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/30/2020-19:40",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Miguel N",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Nathan",
+      "usuario": "narmero",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "02/20/2024-19:26",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Nerea",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/05/2020-11:15",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Noemi",
+      "usuario": "nillan",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "08/11/2024-11:22",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Oscar",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Paquita",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "05/09/2022-10:53",
+      "Territorios": ["3"]
+    },
+    {
+      "Nombre": "Patricio",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "01/02/2021-11:16",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Pepi",
+      "usuario": "pconsuegra",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "03/16/2024-10:56",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Pili",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Pili M",
+      "usuario": "martinezp",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/17/2024-09:19",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Rafael",
+      "usuario": "rpenalva",
+      "Correo electrónico": "r***********a@i*****.com",
+      "Tipo": 3,
+      "Última sesión": "09/06/2024-07:39",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Ricardo",
+      "usuario": "raguirre",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "08/05/2023-11:28",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Rosa",
+      "usuario": "lidon",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/21/2024-11:52",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Rut",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/24/2020-19:10",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Samuel",
+      "usuario": "sros",
+      "Correo electrónico": "s*********w@g****.com",
+      "Tipo": 3,
+      "Última sesión": "09/02/2024-20:21",
+      "Territorios": ["2"]
+    },
+    {
+      "Nombre": "Sefora",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "12/09/2020-19:06",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Silvia",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Susi",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Toñi B",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Toñi Candela",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "11/30/2020-19:15",
+      "Territorios": ["1"]
+    },
+    {
+      "Nombre": "Toñi M",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Toñi S",
+      "usuario": "tsoto",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "09/17/2024-18:20",
+      "Territorios": ["3"]
+    },
+    {
+      "Nombre": "Vicente",
+      "usuario": "jsanchez",
+      "Correo electrónico": "",
+      "Tipo": 2,
+      "Última sesión": "",
+      "Territorios": []
+    },
+    {
+      "Nombre": "Zaira",
+      "usuario": "zrodes",
+      "Correo electrónico": "",
+      "Tipo": 1,
+      "Última sesión": "07/02/2024-20:30",
+      "Territorios": ["1"]
+    }
+  ]
+}

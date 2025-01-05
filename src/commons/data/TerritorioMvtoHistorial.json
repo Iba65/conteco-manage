@@ -1,0 +1,1873 @@
+{
+  "CASAS": [
+    {
+      "territorio": 1,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Jozef Daneels",
+      "Fecha_Salida": "2024-09-11"
+    },
+    {
+      "territorio": 2,
+      "fecha_completo": "2024-08-09",
+      "Asignado": "Ricardo",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 3,
+      "fecha_completo": "2024-07-09",
+      "Asignado": "Patricio",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 4,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Alaya",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 5,
+      "fecha_completo": "2024-08-19",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 6,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Florence",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 7,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 8,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 9,
+      "fecha_completo": "2024-08-30",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 10,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Toñi Candela",
+      "Fecha_Salida": "2024-09-15"
+    },
+    {
+      "territorio": 11,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Jonatan",
+      "Fecha_Salida": "2024-08-31"
+    },
+    {
+      "territorio": 12,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 13,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Marce",
+      "Fecha_Salida": "2024-05-07"
+    },
+    {
+      "territorio": 14,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Herminia",
+      "Fecha_Salida": "2024-08-16"
+    },
+    {
+      "territorio": 15,
+      "fecha_completo": "2024-08-30",
+      "Asignado": "Consuelo",
+      "Fecha_Salida": "2024-09-04"
+    },
+    {
+      "territorio": 16,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Juan G",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 17,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Iris",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 18,
+      "fecha_completo": "2024-08-16",
+      "Asignado": "Judith",
+      "Fecha_Salida": "2024-08-19"
+    },
+    {
+      "territorio": 19,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 20,
+      "fecha_completo": "2024-08-04",
+      "Asignado": "Marga G",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 21,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 22,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 23,
+      "fecha_completo": "2024-07-09",
+      "Asignado": "Mari Carmen B",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 24,
+      "fecha_completo": "2024-06-07",
+      "Asignado": "Toñi S",
+      "Fecha_Salida": "2024-07-09"
+    },
+    {
+      "territorio": 25,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Pepi",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 26,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Isabel",
+      "Fecha_Salida": "2024-08-19"
+    },
+    {
+      "territorio": 27,
+      "fecha_completo": "2024-05-09",
+      "Asignado": "Noemi",
+      "Fecha_Salida": "2024-06-07"
+    },
+    {
+      "territorio": 28,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Juan R",
+      "Fecha_Salida": "2024-05-03"
+    },
+    {
+      "territorio": 29,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Pili M",
+      "Fecha_Salida": "2024-06-09"
+    },
+    {
+      "territorio": 30,
+      "fecha_completo": "2024-05-09",
+      "Asignado": "Pili M",
+      "Fecha_Salida": "2024-06-09"
+    },
+    {
+      "territorio": 31,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Eduardo",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 32,
+      "fecha_completo": "2024-08-19",
+      "Asignado": "Cristina R",
+      "Fecha_Salida": "2024-08-30"
+    },
+    {
+      "territorio": 33,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Marga R",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 34,
+      "fecha_completo": "2024-04-19",
+      "Asignado": "Francisco",
+      "Fecha_Salida": "2024-05-07"
+    },
+    {
+      "territorio": 35,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Zaira",
+      "Fecha_Salida": "2024-04-19"
+    },
+    {
+      "territorio": 36,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 37,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Marlene",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 38,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Javier G",
+      "Fecha_Salida": "2024-06-04"
+    },
+    {
+      "territorio": 39,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Samuel",
+      "Fecha_Salida": "2024-08-19"
+    },
+    {
+      "territorio": 40,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Paquita",
+      "Fecha_Salida": "2024-08-19"
+    },
+    {
+      "territorio": 41,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 42,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Johanna",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 43,
+      "fecha_completo": "2024-06-09",
+      "Asignado": "German",
+      "Fecha_Salida": "2024-06-16"
+    },
+    {
+      "territorio": 44,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Esther",
+      "Fecha_Salida": "2024-05-07"
+    },
+    {
+      "territorio": 45,
+      "fecha_completo": "2024-08-19",
+      "Asignado": "Keren",
+      "Fecha_Salida": "2024-08-30"
+    },
+    {
+      "territorio": 46,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Ignacio",
+      "Fecha_Salida": "2024-05-07"
+    },
+    {
+      "territorio": 47,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Erika",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 48,
+      "fecha_completo": "2024-06-04",
+      "Asignado": "Maria I",
+      "Fecha_Salida": "2024-07-09"
+    },
+    {
+      "territorio": 49,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 50,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Angie",
+      "Fecha_Salida": "2024-06-19"
+    },
+    {
+      "territorio": 51,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 52,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Javier",
+      "Fecha_Salida": "2024-08-11"
+    },
+    {
+      "territorio": 53,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Toñi S",
+      "Fecha_Salida": "2024-06-18"
+    },
+    {
+      "territorio": 54,
+      "fecha_completo": "2024-04-27",
+      "Asignado": "Paquita",
+      "Fecha_Salida": "2024-06-19"
+    },
+    {
+      "territorio": 55,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 56,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Josué",
+      "Fecha_Salida": "2024-08-09"
+    },
+    {
+      "territorio": 57,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 58,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Abraham m",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 59,
+      "fecha_completo": "2024-05-09",
+      "Asignado": "Angel",
+      "Fecha_Salida": "2024-05-22"
+    },
+    {
+      "territorio": 60,
+      "fecha_completo": "2024-08-30",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 61,
+      "fecha_completo": "2024-08-19",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 62,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Juan L",
+      "Fecha_Salida": "2024-05-22"
+    },
+    {
+      "territorio": 63,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 64,
+      "fecha_completo": "2024-05-07",
+      "Asignado": "Maria I",
+      "Fecha_Salida": "2024-06-06"
+    },
+    {
+      "territorio": 65,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 66,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 67,
+      "fecha_completo": "2024-06-06",
+      "Asignado": "Loli M",
+      "Fecha_Salida": "2024-07-10"
+    },
+    {
+      "territorio": 68,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Abrahám S",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 69,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Paquita",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 70,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Congregación Rumana",
+      "Fecha_Salida": "2024-08-11"
+    },
+    {
+      "territorio": 71,
+      "fecha_completo": "2024-07-31",
+      "Asignado": "Toñi Candela",
+      "Fecha_Salida": "2024-07-31",
+      "Fecha_Entrada": "2024-09-15"
+    },
+    {
+      "territorio": 72,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Congregación Rumana",
+      "Fecha_Salida": "2024-05-09"
+    },
+    {
+      "territorio": 73,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Lidia",
+      "Fecha_Salida": "2024-09-06"
+    },
+    {
+      "territorio": 74,
+      "fecha_completo": "2024-07-10",
+      "Asignado": "Juan S",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 75,
+      "fecha_completo": "",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    }
+  ],
+  "NEGOCIOS": [
+    {
+      "territorio": 1,
+      "fecha_completo": "2023-06-02",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 2,
+      "fecha_completo": "2024-06-04",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 3,
+      "fecha_completo": "2023-12-19",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 4,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 5,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 6,
+      "fecha_completo": "2023-09-02",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 7,
+      "fecha_completo": "2024-06-19",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 8,
+      "fecha_completo": "2020-11-30",
+      "Asignado": "Javier G",
+      "Fecha_Salida": "2024-06-04"
+    },
+    {
+      "territorio": 9,
+      "fecha_completo": "2020-11-30",
+      "Asignado": "Angie",
+      "Fecha_Salida": "2024-06-19"
+    },
+    {
+      "territorio": 10,
+      "fecha_completo": "2020-11-30",
+      "Asignado": "Angel",
+      "Fecha_Salida": "2024-08-12"
+    }
+  ],
+  "CAMPO": [
+    {
+      "territorio": 1,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Samuel",
+      "Fecha_Salida": "2024-09-02"
+    },
+    {
+      "territorio": 2,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "Angie",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 3,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 4,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 5,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 6,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Toñi S",
+      "Fecha_Salida": "2024-04-16"
+    },
+    {
+      "territorio": 7,
+      "fecha_completo": "2024-06-19",
+      "Asignado": "Jonatan",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 8,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Rosa",
+      "Fecha_Salida": "2024-04-16"
+    },
+    {
+      "territorio": 9,
+      "fecha_completo": "2024-01-09",
+      "Asignado": "Angel",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 10,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 11,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 12,
+      "fecha_completo": "2024-08-16",
+      "Asignado": "Adrian",
+      "Fecha_Salida": "2024-08-16"
+    },
+    {
+      "territorio": 13,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 14,
+      "fecha_completo": "2024-08-11",
+      "Asignado": "",
+      "Fecha_Salida": ""
+    },
+    {
+      "territorio": 15,
+      "fecha_completo": "2024-08-12",
+      "Asignado": "Juan Sanchez",
+      "Fecha_Salida": "2024-09-15"
+    },
+    {
+      "territorio": 16,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Ignacio",
+      "Fecha_Salida": "2024-08-12"
+    },
+    {
+      "territorio": 17,
+      "fecha_completo": "2024-04-16",
+      "Asignado": "Manuel G",
+      "Fecha_Salida": "2024-04-16"
+    },
+    {
+      "territorio": 18,
+      "fecha_completo": "2024-08-12"
+    }
+  ],
+  "HISTORICO_CASA": [
+    {
+      "territorio": 1,
+      "fecha_completo": "2023-03-12",
+      "Asignadoh1": "Pepi",
+      "Asignadoh2": "Alaya",
+      "Asignadoh3": "Javier",
+      "historico_salida1": "2023-03-25",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-10-05",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-12",
+      "historico_entrega3": "2024-08-11"
+    },
+    {
+      "territorio": 2,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Josué",
+      "Asignadoh2": "Josué",
+      "Asignadoh3": "Ricardo",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-08-09",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 3,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Maria I",
+      "Asignadoh2": "Juan S",
+      "Asignadoh3": "Toñi S",
+      "Asignadoh4": "Patricio",
+      "historico_salida1": "2023-07-12",
+      "historico_entrega1": "2023-09-04",
+      "historico_salida2": "2023-09-30",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-07-09",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 4,
+      "fecha_completo": "2023-07-09",
+      "Asignadoh1": "Francisco",
+      "Asignadoh2": "Francisco",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Alaya",
+      "historico_salida1": "2023-07-15",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-12",
+      "historico_entrega3": "2024-08-11",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 5,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Isabel",
+      "Asignadoh2": "Maira",
+      "Asignadoh3": "Judith",
+      "historico_salida1": "2023-07-12",
+      "historico_entrega1": "2023-09-04",
+      "historico_salida2": "2023-09-28",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-19",
+      "historico_entrega3": "2024-08-19"
+    },
+    {
+      "territorio": 6,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Javier",
+      "Asignadoh2": "Ignacio",
+      "Asignadoh3": "Florence",
+      "historico_salida1": "2023-06-22",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-25",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 7,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Mari Carmen B",
+      "Asignadoh2": "Mari Carmen B",
+      "Asignadoh3": "Mari Carmen B",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 8,
+      "fecha_completo": "2023-05-10",
+      "Asignadoh1": "Zaira",
+      "Asignadoh2": "Loli M",
+      "Asignadoh3": "Iris",
+      "historico_salida1": "2023-06-19",
+      "historico_entrega1": "2023-09-02",
+      "historico_salida2": "2023-09-19",
+      "historico_entrega2": "2023-12-18",
+      "historico_salida3": "2024-01-05",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 9,
+      "fecha_completo": "2023-07-14",
+      "Asignadoh1": "Herminia",
+      "Asignadoh2": "Keren",
+      "historico_salida1": "2023-09-02",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-27",
+      "historico_entrega2": "2024-08-30"
+    },
+    {
+      "territorio": 10,
+      "fecha_completo": "2023-06-18",
+      "Asignadoh1": "Lidia",
+      "Asignadoh2": "Lidia",
+      "historico_salida1": "2023-07-15",
+      "historico_entrega1": "2024-01-02",
+      "historico_salida2": "2024-01-02",
+      "historico_entrega2": "2024-08-11"
+    },
+    {
+      "territorio": 11,
+      "fecha_completo": "2023-07-05",
+      "Asignadoh1": "Florence",
+      "Asignadoh2": "Florence",
+      "Asignadoh3": "Jonatan",
+      "historico_salida1": "2023-09-02",
+      "historico_entrega1": "2024-01-02",
+      "historico_salida2": "2024-03-16",
+      "historico_entrega2": "2024-08-12",
+      "historico_salida3": "2024-08-31"
+    },
+    {
+      "territorio": 12,
+      "fecha_completo": "2023-07-11",
+      "Asignadoh1": "Laura",
+      "Asignadoh2": "Paquita",
+      "historico_salida1": "2023-07-11",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2024-02-13",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 13,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "German",
+      "Asignadoh2": "Toñi S",
+      "Asignadoh3": "Marce",
+      "historico_salida1": "2023-07-08",
+      "historico_entrega1": "2023-10-12",
+      "historico_salida2": "2023-11-21",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-07"
+    },
+    {
+      "territorio": 14,
+      "fecha_completo": "2023-07-11",
+      "Asignadoh1": "Pepi",
+      "Asignadoh2": "Pepi",
+      "Asignadoh3": "Herminia",
+      "historico_salida1": "2023-08-31",
+      "historico_entrega1": "2024-01-04",
+      "historico_salida2": "2024-01-04",
+      "historico_entrega2": "2024-08-12",
+      "historico_salida3": "2024-08-16"
+    },
+    {
+      "territorio": 15,
+      "fecha_completo": "2023-04-21",
+      "Asignadoh1": "Javier",
+      "Asignadoh2": "Lidia",
+      "Asignadoh3": "Lidia",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2023-09-30",
+      "historico_salida2": "2023-12-09",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-30"
+    },
+    {
+      "territorio": 16,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Loli M",
+      "Asignadoh2": "Rafael",
+      "Asignadoh3": "Rafael",
+      "Asignadoh4": "Juan G",
+      "historico_salida1": "2023-08-31",
+      "historico_entrega1": "2023-09-19",
+      "historico_salida2": "2023-11-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-04-16",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 17,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Abraham m",
+      "Asignadoh2": "Abraham m",
+      "Asignadoh3": "Iris",
+      "historico_salida1": "2023-06-22",
+      "historico_entrega1": "2024-01-10",
+      "historico_salida2": "2024-01-10",
+      "historico_entrega2": "2024-08-12",
+      "historico_salida4": "2024-08-12",
+      "historico_entrega4": "2024-08-12"
+    },
+    {
+      "territorio": 18,
+      "fecha_completo": "2022-12-07",
+      "Asignadoh1": "Adrian",
+      "Asignadoh2": "Adrian",
+      "Asignadoh3": "Herminia",
+      "Asignadoh4": "Judith",
+      "historico_salida1": "2022-12-07",
+      "historico_entrega1": "2023-11-13",
+      "historico_salida2": "2023-11-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-16",
+      "historico_salida4": "2024-08-19"
+    },
+    {
+      "territorio": 19,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Abraham m",
+      "Asignadoh2": "Abraham m",
+      "Asignadoh3": "Abraham m",
+      "historico_salida1": "2023-06-22",
+      "historico_entrega1": "2024-01-10",
+      "historico_salida2": "2024-01-10",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 20,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Manuel G",
+      "Asignadoh2": "Manuel G",
+      "Asignadoh3": "Marga G",
+      "historico_salida1": "2023-06-22",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-08-04",
+      "historico_salida3": "2024-08-12"
+    },
+    {
+      "territorio": 21,
+      "fecha_completo": "2023-07-14",
+      "Asignadoh1": "Loreley",
+      "Asignadoh2": "Loreley",
+      "historico_salida1": "2023-07-14",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-08-11"
+    },
+    {
+      "territorio": 22,
+      "fecha_completo": "2023-02-21",
+      "Asignadoh1": "Marga R",
+      "Asignadoh2": "Marga R",
+      "Asignadoh3": "Marga R",
+      "historico_salida1": "2023-03-11",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 23,
+      "fecha_completo": "2023-03-12",
+      "Asignadoh1": "Marga G",
+      "Asignadoh2": "Marga G",
+      "Asignadoh3": "Toñi S",
+      "Asignadoh4": "Mari Carmen B",
+      "historico_salida1": "2023-04-14",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-07-09",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 24,
+      "fecha_completo": "2023-03-27",
+      "Asignadoh1": "Noemi",
+      "Asignadoh2": "Noemi",
+      "Asignadoh3": "Noemi",
+      "Asignadoh4": "Toñi S",
+      "historico_salida1": "2023-04-21",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-06-07",
+      "historico_salida4": "2024-07-09"
+    },
+    {
+      "territorio": 25,
+      "fecha_completo": "2023-07-11",
+      "Asignadoh1": "Jose C",
+      "Asignadoh2": "Jose C",
+      "Asignadoh3": "Pepi",
+      "historico_salida1": "2023-07-11",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-08-12"
+    },
+    {
+      "territorio": 26,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Iris",
+      "Asignadoh2": "Abrahám S",
+      "Asignadoh3": "Isabel",
+      "historico_salida1": "2023-08-24",
+      "historico_entrega1": "2024-01-05",
+      "historico_salida2": "2024-03-14",
+      "historico_entrega2": "2024-08-12",
+      "historico_salida3": "2024-08-19"
+    },
+    {
+      "territorio": 27,
+      "fecha_completo": "2023-05-14",
+      "Asignadoh1": "Laura",
+      "Asignadoh2": "Javier",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Noemi",
+      "historico_salida1": "2023-06-18",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-20",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-05-09",
+      "historico_salida4": "2024-06-07"
+    },
+    {
+      "territorio": 28,
+      "fecha_completo": "2022-12-13",
+      "Asignadoh1": "Maria J",
+      "Asignadoh2": "Loli S",
+      "Asignadoh3": "Juan R",
+      "historico_salida1": "2023-03-12",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-10-24",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-03"
+    },
+    {
+      "territorio": 29,
+      "fecha_completo": "2022-09-27",
+      "Asignadoh1": "Paquita",
+      "Asignadoh2": "Alfonso",
+      "Asignadoh3": "Pili M",
+      "historico_salida1": "2023-02-21",
+      "historico_entrega1": "2023-09-19",
+      "historico_salida2": "2023-11-20",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-06-09"
+    },
+    {
+      "territorio": 30,
+      "fecha_completo": "2023-05-09",
+      "Asignadoh1": "Loli M",
+      "Asignadoh2": "Javier",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Pili M",
+      "historico_salida1": "2023-06-06",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-20",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-05-09",
+      "historico_salida4": "2024-06-09"
+    },
+    {
+      "territorio": 31,
+      "fecha_completo": "2023-02-15",
+      "Asignadoh1": "Carmen L",
+      "Asignadoh2": "German",
+      "Asignadoh3": "Eduardo",
+      "historico_salida1": "2023-03-14",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2024-02-22",
+      "historico_entrega2": "2024-08-12",
+      "historico_salida3": "2024-08-12"
+    },
+    {
+      "territorio": 32,
+      "fecha_completo": "2022-12-07",
+      "Asignadoh1": "Pili M",
+      "Asignadoh2": "Keren",
+      "Asignadoh3": "Paquita",
+      "Asignadoh4": "Cristina R",
+      "historico_salida1": "2023-03-12",
+      "historico_entrega1": "2023-09-05",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-19",
+      "historico_entrega3": "2024-08-19",
+      "historico_salida4": "2024-08-30"
+    },
+    {
+      "territorio": 33,
+      "fecha_completo": "2023-04-08",
+      "Asignadoh1": "Javier",
+      "Asignadoh2": "Javier",
+      "Asignadoh3": "Juan S",
+      "Asignadoh4": "Marga R",
+      "historico_salida1": "2023-04-21",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2023-12-17",
+      "historico_salida3": "2023-12-18",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2023-08-12"
+    },
+    {
+      "territorio": 34,
+      "fecha_completo": "2023-07-14",
+      "Asignadoh1": "Pili M",
+      "Asignadoh2": "Francisco",
+      "historico_salida1": "2023-09-05",
+      "historico_entrega1": "2024-04-19",
+      "historico_salida2": "2023-05-07"
+    },
+    {
+      "territorio": 35,
+      "fecha_completo": "2022-05-30",
+      "Asignadoh1": "German",
+      "Asignadoh2": "Paquita",
+      "Asignadoh3": "Zaira",
+      "historico_salida1": "2022-11-24",
+      "historico_entrega1": "2023-09-14",
+      "historico_salida2": "2023-10-24",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-19"
+    },
+    {
+      "territorio": 36,
+      "fecha_completo": "2023-04-24",
+      "Asignadoh1": "Alfonso",
+      "Asignadoh2": "Alaya",
+      "Asignadoh3": "Alaya",
+      "historico_salida1": "2023-05-22",
+      "historico_entrega1": "2023-11-20",
+      "historico_salida2": "2023-12-14",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 37,
+      "fecha_completo": "2023-06-05",
+      "Asignadoh1": "Carmen F",
+      "Asignadoh2": "Laura",
+      "Asignadoh3": "Laura",
+      "Asignadoh4": "Marlene",
+      "historico_salida1": "2023-07-14",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 38,
+      "fecha_completo": "2023-06-02",
+      "Asignadoh1": "Marce",
+      "Asignadoh2": "Marce",
+      "Asignadoh3": "Javier G",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-06-04"
+    },
+    {
+      "territorio": 39,
+      "fecha_completo": "2023-06-02",
+      "Asignadoh1": "Ricardo",
+      "Asignadoh2": "Ricardo",
+      "Asignadoh3": "Ricardo",
+      "Asignadoh4": "Samuel",
+      "historico_salida1": "2023-06-27",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2024-08-19"
+    },
+    {
+      "territorio": 40,
+      "fecha_completo": "2023-04-27",
+      "Asignadoh1": "Florence",
+      "Asignadoh2": "Marlene",
+      "Asignadoh3": "Marlene",
+      "Asignadoh4": "Paquita",
+      "historico_salida1": "2023-06-05",
+      "historico_entrega1": "2023-09-02",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-03-07",
+      "historico_salida3": "2024-03-07",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2024-08-19"
+    },
+    {
+      "territorio": 41,
+      "fecha_completo": "2023-02-05",
+      "Asignadoh1": "Toñi Candela",
+      "Asignadoh2": "German",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Johanna",
+      "historico_salida1": "2023-03-24",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-10-07",
+      "historico_entrega2": "2023-11-23",
+      "historico_salida3": "2023-12-17",
+      "historico_entrega3": "2024-01-05",
+      "historico_salida4": "2024-01-22",
+      "historico_entrega4": "2024-08-12"
+    },
+    {
+      "territorio": 42,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Eduardo",
+      "Asignadoh2": "Eduardo",
+      "Asignadoh3": "Eduardo",
+      "Asignadoh4": "Johanna",
+      "historico_salida1": "2023-07-22",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 43,
+      "fecha_completo": "2023-04-19",
+      "Asignadoh1": "Pili M",
+      "Asignadoh2": "Pili M",
+      "Asignadoh3": "Pili M",
+      "Asignadoh4": "German",
+      "historico_salida1": "2023-05-09",
+      "historico_entrega1": "2023-09-16",
+      "historico_salida2": "2023-09-16",
+      "historico_entrega2": "2024-04-19",
+      "historico_salida3": "2024-04-19",
+      "historico_entrega3": "2024-06-09",
+      "historico_salida4": "2024-06-16"
+    },
+    {
+      "territorio": 44,
+      "fecha_completo": "2023-05-10",
+      "Asignadoh1": "Paquita",
+      "Asignadoh2": "Marga G",
+      "Asignadoh3": "Esther",
+      "historico_salida1": "2023-06-12",
+      "historico_entrega1": "2023-10-24",
+      "historico_salida2": "2023-12-01",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-07"
+    },
+    {
+      "territorio": 45,
+      "fecha_completo": "2023-04-14",
+      "Asignadoh1": "Isabel",
+      "Asignadoh2": "Maria J",
+      "Asignadoh3": "Samuel",
+      "Asignadoh4": "Keren",
+      "historico_salida1": "2023-04-24",
+      "historico_entrega1": "2023-09-04",
+      "historico_salida2": "2023-10-18",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-19",
+      "historico_entrega3": "2024-08-19",
+      "historico_salida4": "2024-08-30"
+    },
+    {
+      "territorio": 46,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Alaya",
+      "Asignadoh2": "Ignacio",
+      "historico_salida1": "2023-08-20",
+      "historico_entrega1": "2023-04-16",
+      "historico_salida2": "2023-05-07"
+    },
+    {
+      "territorio": 47,
+      "fecha_completo": "2023-03-12",
+      "Asignadoh1": "Patricio",
+      "Asignadoh2": "Patricio",
+      "Asignadoh3": "Patricio",
+      "Asignadoh4": "Erika",
+      "historico_salida1": "2023-03-27",
+      "historico_entrega1": "2023-09-19",
+      "historico_salida2": "2023-09-19",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 48,
+      "fecha_completo": "2023-08-24",
+      "Asignadoh1": "Javier G",
+      "Asignadoh2": "Javier G",
+      "Asignadoh3": "Maria I",
+      "historico_salida1": "2023-09-05",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-16",
+      "historico_entrega2": "2024-06-04",
+      "historico_salida3": "2024-07-09"
+    },
+    {
+      "territorio": 49,
+      "fecha_completo": "2023-02-21",
+      "Asignadoh1": "Toñi Candela",
+      "Asignadoh2": "Toñi Candela",
+      "Asignadoh3": "Marga G",
+      "Asignadoh4": "Marga G",
+      "historico_salida1": "2023-03-28",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-03-23",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-07-09",
+      "historico_salida4": "2024-07-09",
+      "historico_entrega4": "2024-08-12"
+    },
+    {
+      "territorio": 50,
+      "fecha_completo": "2023-07-05",
+      "Asignadoh1": "Maria I",
+      "Asignadoh2": "German",
+      "Asignadoh3": "Angie",
+      "historico_salida1": "2023-09-04",
+      "historico_entrega1": "2023-10-20",
+      "historico_salida2": "2023-11-23",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-06-19"
+    },
+    {
+      "territorio": 51,
+      "fecha_completo": "2023-03-25",
+      "Asignadoh1": "Isabel",
+      "Asignadoh2": "Toñi S",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Maria I",
+      "Asignadoh5": "Alaya",
+      "historico_salida1": "2023-04-24",
+      "historico_entrega1": "2023-09-04",
+      "historico_salida2": "2023-10-17",
+      "historico_entrega2": "2023-11-13",
+      "historico_salida3": "2023-12-17",
+      "historico_entrega3": "2024-01-05",
+      "historico_salida4": "2024-02-20",
+      "historico_entrega4": "2024-06-06",
+      "historico_salida5": "2024-07-09",
+      "historico_entrega5": "2024-08-12"
+    },
+    {
+      "territorio": 52,
+      "fecha_completo": "2023-03-25",
+      "Asignadoh1": "Loli M",
+      "Asignadoh2": "Johanna",
+      "Asignadoh3": "Javier",
+      "historico_salida1": "2023-04-19",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-11-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-08-11"
+    },
+    {
+      "territorio": 53,
+      "fecha_completo": "2023-07-12",
+      "Asignadoh1": "Esther",
+      "Asignadoh2": "Esther",
+      "Asignadoh3": "Toñi S",
+      "historico_salida1": "2023-07-12",
+      "historico_entrega1": "2023-12-24",
+      "historico_salida2": "2023-12-24",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-06-18"
+    },
+    {
+      "territorio": 54,
+      "fecha_completo": "2023-04-24",
+      "Asignadoh1": "Samuel",
+      "Asignadoh2": "Samuel",
+      "Asignadoh3": "Keren",
+      "Asignadoh4": "Paquita",
+      "historico_salida1": "2023-05-10",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2023-11-13",
+      "historico_salida3": "2023-12-18",
+      "historico_entrega3": "2024-04-27",
+      "historico_salida4": "2024-06-19"
+    },
+    {
+      "territorio": 55,
+      "fecha_completo": "2023-07-10",
+      "Asignadoh1": "Isabel",
+      "Asignadoh2": "Florence",
+      "Asignadoh3": "Toñi Candela",
+      "historico_salida1": "2023-09-04",
+      "historico_entrega1": "2023-10-20",
+      "historico_salida2": "2024-01-02",
+      "historico_entrega2": "2024-03-16",
+      "historico_salida3": "2024-03-30",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 56,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Angel",
+      "Asignadoh2": "German",
+      "Asignadoh3": "Josué",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2023-09-04",
+      "historico_salida2": "2023-10-08",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-08-09"
+    },
+    {
+      "territorio": 57,
+      "fecha_completo": "2023-08-05",
+      "Asignadoh1": "Zaira",
+      "Asignadoh2": "Alaya",
+      "historico_salida1": "2023-09-02",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-16",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 58,
+      "fecha_completo": "2023-03-10",
+      "Asignadoh1": "Angie",
+      "Asignadoh2": "Alfonso",
+      "Asignadoh3": "Abraham m",
+      "historico_salida1": "2023-04-19",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-11-20",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-08-12"
+    },
+    {
+      "territorio": 59,
+      "fecha_completo": "2023-06-02",
+      "Asignadoh1": "Marta",
+      "Asignadoh2": "Javier",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Angel",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-29",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-05-09",
+      "historico_salida5": "2024-05-22"
+    },
+    {
+      "territorio": 60,
+      "fecha_completo": "2023-04-21",
+      "Asignadoh1": "Keren",
+      "Asignadoh2": "Toñi Candela",
+      "Asignadoh3": "Cristina R",
+      "historico_salida1": "2023-05-10",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-11-05",
+      "historico_entrega2": "2024-03-30",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-30"
+    },
+    {
+      "territorio": 61,
+      "fecha_completo": "2022-11-06",
+      "Asignadoh1": "Judith",
+      "Asignadoh2": "Judith",
+      "Asignadoh3": "Isabel",
+      "historico_salida1": "2023-03-10",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-19"
+    },
+    {
+      "territorio": 62,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Toñi S",
+      "Asignadoh2": "Samuel",
+      "Asignadoh3": "Juan L",
+      "historico_salida1": "2023-08-05",
+      "historico_entrega1": "2023-10-17",
+      "historico_salida2": "2023-11-21",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-22"
+    },
+    {
+      "territorio": 63,
+      "fecha_completo": "2023-07-11",
+      "Asignadoh1": "Eduardo",
+      "Asignadoh2": "Eduardo",
+      "Asignadoh3": "Eduardo",
+      "historico_salida1": "2023-07-11",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 64,
+      "fecha_completo": "2023-07-14",
+      "Asignadoh1": "Nathan",
+      "Asignadoh2": "Nathan",
+      "Asignadoh3": "Maria I",
+      "historico_salida1": "2023-07-14",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-06-06"
+    },
+    {
+      "territorio": 65,
+      "fecha_completo": "2023-04-21",
+      "Asignadoh1": "Ignacio",
+      "Asignadoh2": "Ignacio",
+      "Asignadoh3": "Consuelo",
+      "historico_salida1": "2023-04-27",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2023-12-25",
+      "historico_salida3": "2024-02-22",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 66,
+      "fecha_completo": "2023-06-02",
+      "Asignadoh1": "Consuelo",
+      "Asignadoh2": "Noemi",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2024-01-02",
+      "historico_salida2": "2024-03-07",
+      "historico_entrega2": "2024-08-11"
+    },
+    {
+      "territorio": 67,
+      "fecha_completo": "2023-04-21",
+      "Asignadoh1": "Juan L",
+      "Asignadoh2": "Juan L",
+      "Asignadoh3": "Maria I",
+      "Asignadoh4": "Loli M",
+      "historico_salida1": "2023-04-27",
+      "historico_entrega1": "2023-09-19",
+      "historico_salida2": "2023-09-19",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-06-06",
+      "historico_salida4": "2024-07-10"
+    },
+    {
+      "territorio": 68,
+      "fecha_completo": "2023-04-21",
+      "Asignadoh1": "Rafael",
+      "Asignadoh2": "Rafael",
+      "Asignadoh3": "Alaya",
+      "Asignadoh4": "Abrahám S",
+      "historico_salida1": "2023-05-14",
+      "historico_entrega1": "2023-09-19",
+      "historico_salida2": "2023-09-19",
+      "historico_entrega2": "2024-02-20",
+      "historico_salida3": "2024-03-30",
+      "historico_entrega3": "2024-08-12",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 69,
+      "fecha_completo": "2023-04-24",
+      "Asignadoh1": "Angel",
+      "Asignadoh2": "Toñi S",
+      "Asignadoh3": "Alfonso",
+      "Asignadoh4": "Paquita",
+      "historico_salida1": "2023-06-05",
+      "historico_entrega1": "2023-09-04",
+      "historico_salida2": "2023-11-21",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-11",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 70,
+      "fecha_completo": "2023-06-02",
+      "Asignadoh1": "Juan R",
+      "Asignadoh2": "Juan R",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Congregación Rumana",
+      "historico_salida1": "2023-07-05",
+      "historico_entrega1": "2024-01-02",
+      "historico_salida2": "2024-01-02",
+      "historico_entrega2": "2024-05-03",
+      "historico_salida3": "2024-05-09",
+      "historico_entrega3": "2024-08-11",
+      "historico_salida4": "2024-08-11"
+    },
+    {
+      "territorio": 71,
+      "fecha_completo": "2023-05-30",
+      "Asignadoh1": "Javier G",
+      "Asignadoh2": "Isabel",
+      "Asignadoh3": "Alfonso",
+      "Asignadoh4": "Toñi Candela",
+      "historico_salida1": "2023-05-30",
+      "historico_entrega1": "2023-09-05",
+      "historico_salida2": "2023-10-20",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-07-31",
+      "historico_salida4": "2024-07-31"
+    },
+    {
+      "territorio": 72,
+      "fecha_completo": "2023-04-21",
+      "Asignadoh1": "Alfonso",
+      "Asignadoh2": "Loli M",
+      "Asignadoh3": "Javier",
+      "Asignadoh4": "Congregación Rumana",
+      "historico_salida1": "2023-05-22",
+      "historico_entrega1": "2023-11-20",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-09",
+      "historico_entrega3": "2024-08-11",
+      "historico_salida4": "2024-05-09"
+    },
+    {
+      "territorio": 73,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Juan G",
+      "Asignadoh2": "Juan G",
+      "Asignadoh3": "Juan G",
+      "historico_salida1": "2023-07-09",
+      "historico_entrega1": "2023-12-25",
+      "historico_salida2": "2023-12-25",
+      "historico_entrega2": "2024-05-07",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 74,
+      "fecha_completo": "2022-12-05",
+      "Asignadoh1": "Jonatan",
+      "Asignadoh2": "Jonatan",
+      "Asignadoh3": "Loli M",
+      "Asignadoh4": "Juan S",
+      "historico_salida1": "2023-03-09",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-05-07",
+      "historico_entrega3": "2024-07-10",
+      "historico_salida4": "2024-08-12"
+    }
+  ],
+  "HISTORICO_NEGOCIOS": [
+    {
+      "territorio": 1,
+      "fecha_completo": "2023-06-02"
+    },
+    {
+      "territorio": 2,
+      "fecha_completo": "2023-05-30",
+      "Asignadoh1": "Javier G",
+      "Asignadoh2": "Javier G",
+      "historico_salida1": "2023-05-30",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-06-04"
+    },
+    {
+      "territorio": 3,
+      "fecha_completo": "2022-08-29",
+      "Asignadoh1": "Angie",
+      "historico_salida1": "2023-06-02",
+      "historico_entrega1": "2023-12-19"
+    },
+    {
+      "territorio": 4,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Florence",
+      "historico_salida1": "2023-10-27",
+      "historico_entrega1": "2024-04-16"
+    },
+    {
+      "territorio": 5,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Angel",
+      "Asignadoh2": "Angel",
+      "Asignadoh3": "Angel",
+      "historico_salida1": "2023-04-03",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 6,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Florence",
+      "historico_salida1": "2023-06-05",
+      "historico_entrega1": "2023-09-02"
+    },
+    {
+      "territorio": 7,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Angie",
+      "historico_salida1": "2023-12-19",
+      "historico_entrega1": "2024-06-19"
+    },
+    {
+      "territorio": 8,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Javier G",
+      "historico_salida1": "2024-06-04"
+    },
+    {
+      "territorio": 9,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Angie",
+      "historico_salida1": "2024-06-19"
+    },
+    {
+      "territorio": 10,
+      "fecha_completo": "2020-11-30",
+      "Asignadoh1": "Angel",
+      "historico_salida1": "2024-08-12"
+    }
+  ],
+  "HISTORICO_CAMPO": [
+    {
+      "territorio": 1,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Ignacio",
+      "Asignadoh2": "Ignacio",
+      "historico_salida1": "2023-09-05",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-16",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 2,
+      "fecha_completo": "",
+      "Asignadoh1": "Congregación Rumana",
+      "Asignadoh2": "Congregación Rumana",
+      "Asignadoh3": "Congregación Rumana",
+      "Asignadoh4": "Angie",
+      "historico_salida1": "2023-03-09",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-19",
+      "historico_salida3": "2024-04-19",
+      "historico_entrega3": "2024-08-11",
+      "historico_salida4": "2024-08-12"
+    },
+    {
+      "territorio": 3,
+      "fecha_completo": "",
+      "Asignadoh1": "Erika",
+      "Asignadoh2": "Erika",
+      "historico_salida1": "2023-03-09",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 4,
+      "fecha_completo": "2023-06-24",
+      "Asignadoh1": "Angie",
+      "historico_salida1": "2023-09-06",
+      "historico_entrega1": "2024-08-12"
+    },
+    {
+      "territorio": 5,
+      "fecha_completo": "",
+      "Asignadoh1": "Johanna",
+      "Asignadoh2": "Johanna",
+      "Asignadoh3": "Johanna",
+      "historico_salida1": "2023-04-09",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 6,
+      "fecha_completo": "2023-06-29",
+      "Asignado1": "Toñi S",
+      "Asignado2": "Toñi S",
+      "historico_salida1": "2024-01-09",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-16"
+    },
+    {
+      "territorio": 7,
+      "fecha_completo": "",
+      "Asignadoh1": "Angie",
+      "Asignadoh2": "Jonatan",
+      "historico_salida1": "2023-06-24",
+      "historico_entrega1": "2024-06-19",
+      "historico_salida2": "2024-08-12"
+    },
+    {
+      "territorio": 8,
+      "fecha_completo": "",
+      "Asignadoh1": "Rosa",
+      "Asignadoh2": "Rosa",
+      "historico_salida1": "2023-06-29",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-16"
+    },
+    {
+      "territorio": 9,
+      "fecha_completo": "2023-06-02",
+      "Asignadoh1": "Toñi S",
+      "Asignadoh2": "Toñi S",
+      "Asignadoh3": "Angel",
+      "historico_salida1": "2023-06-02",
+      "historico_entrega1": "2023-12-18",
+      "historico_salida2": "2023-12-18",
+      "historico_entrega2": "2024-01-09",
+      "historico_salida3": "2024-08-12"
+    },
+    {
+      "territorio": 10,
+      "fecha_completo": "2023-06-22",
+      "Asignadoh1": "Angel",
+      "Asignadoh2": "Angel",
+      "historico_salida1": "2023-06-22",
+      "historico_entrega1": "2024-04-16",
+      "historico_salida2": "2024-04-16",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 11,
+      "fecha_completo": "",
+      "Asignadoh1": "Jonatan",
+      "Asignadoh2": "Jonatan",
+      "historico_salida1": "2022-10-01",
+      "historico_entrega1": "2023-12-19",
+      "historico_salida2": "2023-12-19",
+      "historico_entrega2": "2024-08-12"
+    },
+    {
+      "territorio": 12,
+      "fecha_completo": "2021-03-20",
+      "Asignadoh1": "Javier G",
+      "Asignadoh2": "Javier",
+      "Asignadoh3": "Adrian",
+      "Asignadoh4": "Adrian",
+      "historico_salida1": "2023-04-14",
+      "historico_entrega1": "2023-09-05",
+      "historico_salida2": "2023-09-24",
+      "historico_entrega2": "2023-12-18",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-16",
+      "historico_salida4": "2024-08-16"
+    },
+    {
+      "territorio": 13,
+      "fecha_completo": "2021-03-28",
+      "Asignadoh1": "Jonatan",
+      "Asignadoh2": "Jonatan",
+      "Asignadoh3": "Jonatan",
+      "historico_salida1": "2023-04-14",
+      "historico_entrega1": "2023-09-12",
+      "historico_salida2": "2023-09-12",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16",
+      "historico_entrega3": "2024-08-12"
+    },
+    {
+      "territorio": 14,
+      "fecha_completo": "2022-12-05",
+      "Asignadoh1": "Javier",
+      "Asignadoh2": "Javier",
+      "Asignadoh3": "Javier",
+      "historico_salida1": "2023-06-09",
+      "historico_entrega1": "2023-09-24",
+      "historico_salida2": "2023-09-24",
+      "historico_entrega2": "2023-09-30",
+      "historico_salida3": "2023-12-18",
+      "historico_entrega3": "2024-08-11"
+    },
+    {
+      "territorio": 15,
+      "fecha_completo": "2023-03-31",
+      "Asignadoh1": "Eduardo",
+      "historico_salida1": "2024-04-19",
+      "historico_entrega1": "2024-08-12"
+    },
+    {
+      "territorio": 16,
+      "fecha_completo": "2022-12-07",
+      "Asignadoh1": "Eduardo",
+      "Asignadoh2": "Eduardo",
+      "Asignadoh3": "Ignacio",
+      "historico_salida1": "2023-03-31",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-08-12"
+    },
+    {
+      "territorio": 17,
+      "fecha_completo": "",
+      "Asignadoh1": "Manuel G",
+      "Asignadoh2": "Manuel G",
+      "Asignadoh3": "Manuel G",
+      "historico_salida1": "2023-03-04",
+      "historico_entrega1": "2023-09-13",
+      "historico_salida2": "2023-09-13",
+      "historico_entrega2": "2024-04-16",
+      "historico_salida3": "2024-04-16"
+    },
+    {
+      "territorio": 18,
+      "fecha_completo": "2023-03-05",
+      "Asignadoh1": "Rafael",
+      "historico_salida1": "2024-02-01",
+      "historico_entrega1": "2024-08-12"
+    }
+  ]
+}

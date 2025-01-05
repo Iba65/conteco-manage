@@ -1,0 +1,65 @@
+.loginPageContainer {
+  background-color: rgba(0, 0, 0, 0.248);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.titleModal {
+  width: 100%;
+  min-height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 24px;
+  border-top: solid 4px rgb(28, 33, 46);
+  border-radius: 18px 18px 0px 0px;
+}
+.loginFormContainer {
+  width: 40vw;
+  min-width: 550px;
+  max-width: 570px;
+  height: auto;
+  max-height: 490px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: rgba(119, 138, 185, 0.109);
+  border: solid 2px rgb(28, 33, 46);
+  border-radius: 20px;
+}
+.fieldsContainer {
+  padding: 0px 20px;
+}
+.loguinFooter {
+  background-color: rgb(28, 33, 46);
+  border-radius: 0px 0px 18px 18px;
+}
+.linksContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+.linkAcces {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  color: rgb(25, 56, 134);
+}
+.linkAcces:hover {
+  cursor: pointer;
+  font-weight: 700;
+  color: rgb(123, 84, 10);
+}

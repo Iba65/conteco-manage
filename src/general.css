@@ -1,0 +1,686 @@
+/* --- margenes ---- */
+.p-0 {
+  padding: 0px;
+}
+.p-1 {
+  padding: 4px;
+}
+.p-2 {
+  padding: 8px;
+}
+.p-3 {
+  padding: 12px;
+}
+.p-4 {
+  padding: 16px;
+}
+.p-5 {
+  padding: 20px;
+}
+.p-6 {
+  padding: 24px;
+}
+.p-7 {
+  padding: 28px;
+}
+.p-8 {
+  padding: 32px;
+}
+.p-9 {
+  padding: 36px;
+}
+.p-10 {
+  padding: 40px;
+}
+.pl-0 {
+  padding-left: 0px;
+}
+.pl-1 {
+  padding-left: 4px;
+}
+.pl-2 {
+  padding-left: 8px;
+}
+.pl-3 {
+  padding-left: 12px;
+}
+.pl-4 {
+  padding-left: 16px;
+}
+.pl-5 {
+  padding-left: 20px;
+}
+.pl-6 {
+  padding-left: 24px;
+}
+.pl-7 {
+  padding-left: 28px;
+}
+.pl-8 {
+  padding-left: 32px;
+}
+.pl-9 {
+  padding-left: 36px;
+}
+.pl-10 {
+  padding-left: 40px;
+}
+.pr-0 {
+  padding-right: 0px;
+}
+.pr-1 {
+  padding-right: 4px;
+}
+.pr-2 {
+  padding-right: 8px;
+}
+.pr-3 {
+  padding-right: 12px;
+}
+.pr-4 {
+  padding-right: 16px;
+}
+.pr-5 {
+  padding-right: 20px;
+}
+.pr-6 {
+  padding-right: 24px;
+}
+.pr-7 {
+  padding-right: 28px;
+}
+.pr-8 {
+  padding-right: 32px;
+}
+.pr-9 {
+  padding-right: 36px;
+}
+.pr-10 {
+  padding-right: 40px;
+}
+.pt-0 {
+  padding-top: 0px;
+}
+.pt-1 {
+  padding-top: 4px;
+}
+.pt-2 {
+  padding-top: 8px;
+}
+.pt-3 {
+  padding-top: 12px;
+}
+.pt-4 {
+  padding-top: 16px;
+}
+.pt-5 {
+  padding-top: 20px;
+}
+.pt-6 {
+  padding-top: 24px;
+}
+.pt-7 {
+  padding-top: 28px;
+}
+.pt-8 {
+  padding-top: 32px;
+}
+.pt-9 {
+  padding-top: 36px;
+}
+.pt-10 {
+  padding-top: 40px;
+}
+.pt-0 {
+  padding-top: 0px;
+}
+.pb-1 {
+  padding-bottom: 4px;
+}
+.pb-2 {
+  padding-bottom: 8px;
+}
+.pb-3 {
+  padding-bottom: 12px;
+}
+.pb-4 {
+  padding-bottom: 16px;
+}
+.pb-5 {
+  padding-bottom: 20px;
+}
+.pb-6 {
+  padding-bottom: 24px;
+}
+.pb-7 {
+  padding-bottom: 28px;
+}
+.pb-8 {
+  padding-bottom: 32px;
+}
+.pb-9 {
+  padding-bottom: 36px;
+}
+.pb-10 {
+  padding-bottom: 40px;
+}
+
+/**/
+.m-0 {
+  margin: 0px;
+}
+.m-1 {
+  margin: 4px;
+}
+.m-2 {
+  margin: 8px;
+}
+.m-3 {
+  margin: 12px;
+}
+.m-4 {
+  margin: 16px;
+}
+.m-5 {
+  margin: 20px;
+}
+.m-6 {
+  margin: 24px;
+}
+.m-7 {
+  margin: 28px;
+}
+.m-8 {
+  margin: 32px;
+}
+.m-9 {
+  margin: 36px;
+}
+.m-10 {
+  margin: 40px;
+}
+.ml-0 {
+  margin-left: 0px;
+}
+.ml-1 {
+  margin-left: 4px;
+}
+.ml-2 {
+  margin-left: 8px;
+}
+.ml-3 {
+  margin-left: 12px;
+}
+.ml-4 {
+  margin-left: 16px;
+}
+.ml-5 {
+  margin-left: 20px;
+}
+.ml-6 {
+  margin-left: 24px;
+}
+.ml-7 {
+  margin-left: 28px;
+}
+.ml-8 {
+  margin-left: 32px;
+}
+.ml-9 {
+  margin-left: 36px;
+}
+.ml-10 {
+  margin-left: 40px;
+}
+.mr-0 {
+  margin-right: 0px;
+}
+.mr-1 {
+  margin-right: 4px;
+}
+.mr-2 {
+  margin-right: 8px;
+}
+.mr-3 {
+  margin-right: 12px;
+}
+.mr-4 {
+  margin-right: 16px;
+}
+.mr-5 {
+  margin-right: 20px;
+}
+.mr-6 {
+  margin-right: 24px;
+}
+.mr-7 {
+  margin-right: 28px;
+}
+.mr-8 {
+  margin-right: 32px;
+}
+.mr-9 {
+  margin-right: 36px;
+}
+.mr-10 {
+  margin-right: 40px;
+}
+.mt-0 {
+  margin-top: 0px;
+}
+.mt-1 {
+  margin-top: 4px;
+}
+.mt-2 {
+  margin-top: 8px;
+}
+.mt-3 {
+  margin-top: 12px;
+}
+.mt-4 {
+  margin-top: 16px;
+}
+.mt-5 {
+  margin-top: 20px;
+}
+.mt-6 {
+  margin-top: 24px;
+}
+.mt-7 {
+  margin-top: 28px;
+}
+.mt-8 {
+  margin-top: 32px;
+}
+.mt-9 {
+  margin-top: 36px;
+}
+.mt-10 {
+  margin-top: 40px;
+}
+.mt-0 {
+  margin-top: 0px;
+}
+.mb-1 {
+  margin-bottom: 4px;
+}
+.mb-2 {
+  margin-bottom: 8px;
+}
+.mb-3 {
+  margin-bottom: 12px;
+}
+.mb-4 {
+  margin-bottom: 16px;
+}
+.mb-5 {
+  margin-bottom: 20px;
+}
+.mb-6 {
+  margin-bottom: 24px;
+}
+.mb-7 {
+  margin-bottom: 28px;
+}
+.mb-8 {
+  margin-bottom: 32px;
+}
+.mb-9 {
+  margin-bottom: 36px;
+}
+.mb-10 {
+  margin-bottom: 40px;
+}
+
+/* ---- anchos % ----*/
+.w100 {
+  width: 100%;
+}
+.wv100 {
+  width: 100vw;
+}
+.w50 {
+  width: 50%;
+}
+.wv50 {
+  width: 50vw;
+}
+.mw-100 {
+  max-width: 100px !important;
+}
+.mw-150 {
+  max-width: 150px;
+}
+.mw-200 {
+  max-width: 200px;
+}
+.mw-230 {
+  max-width: 230px;
+}
+.mw-260 {
+  max-width: 260px;
+}
+
+/* ---- fondos ----*/
+.bg-gray-100 {
+  background-color: gray;
+}
+.bg-gray-50 {
+  background-color: rgb(187, 186, 186);
+}
+.bg-gray-10 {
+  background-color: rgb(231, 231, 231);
+}
+.bg-blue-100 {
+  background-color: blue;
+}
+.bg-blue-50 {
+  background-color: rgb(123, 123, 255);
+}
+.bg-blue-10 {
+  background-color: rgb(239, 239, 255);
+}
+.bg-red-100 {
+  background-color: red;
+}
+.bg-red-50 {
+  background-color: rgb(254, 128, 128);
+}
+.bg-red-10 {
+  background-color: rgb(254, 235, 235);
+}
+
+/*** reglas para text ***/
+/* ---- textos ----*/
+.txt-gray-100 {
+  color: gray;
+}
+.txt-gray-50 {
+  color: rgb(187, 186, 186);
+}
+.txt-gray-10 {
+  color: rgb(231, 231, 231);
+}
+.txt-blue-100 {
+  color: blue;
+}
+.txt-blue-50 {
+  color: rgb(123, 123, 255);
+}
+.txt-blue-10 {
+  color: rgb(239, 239, 255);
+}
+.txt-red-100 {
+  color: red;
+}
+.txt-red-50 {
+  color: rgb(254, 128, 128);
+}
+.txt-red-10 {
+  color: rgb(254, 235, 235);
+}
+.txt-green-100 {
+  color: green;
+}
+.txt-green-50 {
+  color: rgb(62, 135, 62);
+}
+.txt-green-10 {
+  color: rgb(126, 138, 126);
+}
+/* font */
+.fw-300 {
+  font-weight: 300;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-700 {
+  font-weight: 700;
+}
+
+/* general */
+.w80 {
+  width: 80px;
+}
+.w60 {
+  width: 70px;
+}
+.w45 {
+  width: 45px;
+}
+.w40 {
+  width: 40px;
+}
+.w35 {
+  width: 35px;
+}
+.w30 {
+  width: 30px;
+}
+.w25 {
+  width: 25px;
+}
+.w20 {
+  width: 20px;
+}
+.w15 {
+  width: 15px;
+}
+.fs18 {
+  font-size: 18px;
+}
+.fs14 {
+  font-size: 18px;
+}
+.mb-1 {
+  margin-bottom: 5px !important;
+}
+.mb-2 {
+  margin-bottom: 10px !important;
+}
+.icono-small {
+  width: 30px;
+  margin-left: 20px;
+  font-size: 1.5rem;
+  color: #fff;
+  cursor: pointer;
+}
+.icono-simple-s {
+  width: 30px;
+  color: #fff;
+  cursor: pointer;
+}
+.icono-s {
+  width: 30px;
+  padding: 5px;
+}
+.icono-s-1 {
+  width: 30px;
+  padding: 2px 3px 0px 3px;
+}
+.icono-m {
+  width: 40px;
+  padding: 0px 5px;
+}
+.icono-ms {
+  width: 25px;
+  padding: 0px 5px;
+}
+.icono-x {
+  width: 20px;
+  padding: 0px 5px;
+}
+.icono-xs {
+  width: 15px;
+  padding: 0px 5px;
+}
+.icono-xs-1 {
+  width: 15px;
+  padding: 0px 1px;
+}
+.field-Icono {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+/* ------ components ------ */
+.errinfo {
+  margin: 1px auto;
+  padding: 0px 5px;
+  width: 97%;
+  border: solid 2px maroon;
+  border-radius: 10px;
+  color: whitesmoke;
+  background-color: rgb(160, 17, 17);
+  font-size: 12px;
+  font-weight: 500;
+}
+.navMenu {
+  position: fixed;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  min-height: 50px;
+  background-color: rgb(79, 91, 121);
+  color: white;
+}
+.navLogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  margin: auto 10px;
+  min-width: 400px;
+  width: 65%;
+}
+.navTitle {
+  box-sizing: border-box;
+  width: auto;
+  text-align: left;
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.navAction {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  width: 26%;
+  margin: auto 20px;
+}
+.navAction code {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin: auto 10px;
+}
+
+/* ------------------------------ */
+.navMenuMobile {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 65px;
+  background-color: rgb(79, 91, 121);
+  color: white;
+}
+.navTitleMobile {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.navicouserMobile {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+.navLogoMobile {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  width: 65vw;
+}
+.navActionMobile {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  width: 30vw;
+  margin-right: 10px;
+}
+.navActionMobile code {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  margin: auto 10px;
+}
+
+/* input tipo file */
+.file-select {
+  position: relative;
+  display: inline-block;
+  height: 40px;
+  cursor: pointer;
+}
+
+.file-select::before {
+  background-color: rgb(223, 223, 223);
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  content: "Seleccionar"; /* testo por defecto */
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.file-select input[type="file"] {
+  opacity: 0;
+  width: 200px;
+  height: 32px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+#src-file1::before {
+  content: "Seleccione Imagen";
+  cursor: pointer;
+}

@@ -1,0 +1,446 @@
+[
+  {
+      "codTerr": "E001",
+      "historico": [
+          {
+              "idHTD": "E00120221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-06-22"
+          },
+          {
+              "idHTD": "E00120230905",
+              "hnohasHTD": "Ignacio",
+              "fecsalHTD": "2023-09-05",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E00120240416",
+              "hnohasHTD": "Ignacio",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E002",
+      "historico": [
+          {
+              "idHTD": "E00220221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E00220230309",
+              "hnohasHTD": "Congregación Rumana",
+              "fecsalHTD": "2023-03-09",
+              "fecentHTD": "2023-09-13"
+          },
+          {
+              "idHTD": "E00220230913",
+              "hnohasHTD": "Congregación Rumana",
+              "fecsalHTD": "2023-09-13",
+              "fecentHTD": "2024-04-19"
+          },
+          {
+              "idHTD": "E00220240419",
+              "hnohasHTD": "Congregación Rumana",
+              "fecsalHTD": "2024-04-19",
+              "fecentHTD": "2024-08-11"
+          },
+          {
+              "idHTD": "E00220240812",
+              "hnohasHTD": "Angie",
+              "fecsalHTD": "2024-08-12",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E003",
+      "historico": [
+          {
+              "idHTD": "E00320221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E00320230309",
+              "hnohasHTD": "Erika",
+              "fecsalHTD": "2023-03-09",
+              "fecentHTD": "2023-09-13"
+          },
+          {
+              "idHTD": "E00320230913",
+              "hnohasHTD": "Erika",
+              "fecsalHTD": "2023-09-13",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E004",
+      "historico": [
+          {
+              "idHTD": "E00420221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-06-24"
+          },
+          {
+              "idHTD": "E00420230906",
+              "hnohasHTD": "Angie",
+              "fecsalHTD": "2023-09-06",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E005",
+      "historico": [
+          {
+              "idHTD": "E00520221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E00520230409",
+              "hnohasHTD": "Johanna",
+              "fecsalHTD": "2023-04-09",
+              "fecentHTD": "2023-09-13"
+          },
+          {
+              "idHTD": "E00520230913",
+              "hnohasHTD": "Johanna",
+              "fecsalHTD": "2023-09-13",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E00520240416",
+              "hnohasHTD": "Johanna",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E006",
+      "historico": [
+          {
+              "idHTD": "E00620221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-06-29"
+          }
+      ]
+  },
+  {
+      "codTerr": "E007",
+      "historico": [
+          {
+              "idHTD": "E00720221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E00720230624",
+              "hnohasHTD": "Angie",
+              "fecsalHTD": "2023-06-24",
+              "fecentHTD": "2024-06-19"
+          },
+          {
+              "idHTD": "E00720240812",
+              "hnohasHTD": "Jonatan",
+              "fecsalHTD": "2024-08-12",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E008",
+      "historico": [
+          {
+              "idHTD": "E00820221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E00820230629",
+              "hnohasHTD": "Rosa",
+              "fecsalHTD": "2023-06-29",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E00820240416",
+              "hnohasHTD": "Rosa",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E009",
+      "historico": [
+          {
+              "idHTD": "E00920221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-06-02"
+          },
+          {
+              "idHTD": "E00920230602",
+              "hnohasHTD": "Toñi S",
+              "fecsalHTD": "2023-06-02",
+              "fecentHTD": "2023-12-18"
+          },
+          {
+              "idHTD": "E00920231218",
+              "hnohasHTD": "Toñi S",
+              "fecsalHTD": "2023-12-18",
+              "fecentHTD": "2024-01-09"
+          },
+          {
+              "idHTD": "E00920240812",
+              "hnohasHTD": "Angel",
+              "fecsalHTD": "2024-08-12",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E010",
+      "historico": [
+          {
+              "idHTD": "E01020221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-06-22"
+          },
+          {
+              "idHTD": "E01020230622",
+              "hnohasHTD": "Angel",
+              "fecsalHTD": "2023-06-22",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E01020240416",
+              "hnohasHTD": "Angel",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E011",
+      "historico": [
+          {
+              "idHTD": "E01120221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E01120221001",
+              "hnohasHTD": "Jonatan",
+              "fecsalHTD": "2022-10-01",
+              "fecentHTD": "2023-12-19"
+          },
+          {
+              "idHTD": "E01120231219",
+              "hnohasHTD": "Jonatan",
+              "fecsalHTD": "2023-12-19",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E012",
+      "historico": [
+          {
+              "idHTD": "E01220221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2021-03-20"
+          },
+          {
+              "idHTD": "E01220230414",
+              "hnohasHTD": "Javier G",
+              "fecsalHTD": "2023-04-14",
+              "fecentHTD": "2023-09-05"
+          },
+          {
+              "idHTD": "E01220230924",
+              "hnohasHTD": "Javier",
+              "fecsalHTD": "2023-09-24",
+              "fecentHTD": "2023-12-18"
+          },
+          {
+              "idHTD": "E01220240416",
+              "hnohasHTD": "Adrian",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": "2024-08-16"
+          },
+          {
+              "idHTD": "E01220240816",
+              "hnohasHTD": "Adrian",
+              "fecsalHTD": "2024-08-16",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E013",
+      "historico": [
+          {
+              "idHTD": "E01320221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2021-03-28"
+          },
+          {
+              "idHTD": "E01320230414",
+              "hnohasHTD": "Jonatan",
+              "fecsalHTD": "2023-04-14",
+              "fecentHTD": "2023-09-12"
+          },
+          {
+              "idHTD": "E01320230912",
+              "hnohasHTD": "Jonatan",
+              "fecsalHTD": "2023-09-12",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E01320240416",
+              "hnohasHTD": "Jonatan",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E014",
+      "historico": [
+          {
+              "idHTD": "E01420221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2022-12-05"
+          },
+          {
+              "idHTD": "E01420230609",
+              "hnohasHTD": "Javier",
+              "fecsalHTD": "2023-06-09",
+              "fecentHTD": "2023-09-24"
+          },
+          {
+              "idHTD": "E01420230924",
+              "hnohasHTD": "Javier",
+              "fecsalHTD": "2023-09-24",
+              "fecentHTD": "2023-09-30"
+          },
+          {
+              "idHTD": "E01420231218",
+              "hnohasHTD": "Javier",
+              "fecsalHTD": "2023-12-18",
+              "fecentHTD": "2024-08-11"
+          }
+      ]
+  },
+  {
+      "codTerr": "E015",
+      "historico": [
+          {
+              "idHTD": "E01520221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-03-31"
+          },
+          {
+              "idHTD": "E01520240419",
+              "hnohasHTD": "Eduardo",
+              "fecsalHTD": "2024-04-19",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  },
+  {
+      "codTerr": "E016",
+      "historico": [
+          {
+              "idHTD": "E01620221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2022-12-07"
+          },
+          {
+              "idHTD": "E01620230331",
+              "hnohasHTD": "Eduardo",
+              "fecsalHTD": "2023-03-31",
+              "fecentHTD": "2023-09-13"
+          },
+          {
+              "idHTD": "E01620230913",
+              "hnohasHTD": "Eduardo",
+              "fecsalHTD": "2023-09-13",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E01620240812",
+              "hnohasHTD": "Ignacio",
+              "fecsalHTD": "2024-08-12",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E017",
+      "historico": [
+          {
+              "idHTD": "E01720221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": ""
+          },
+          {
+              "idHTD": "E01720230304",
+              "hnohasHTD": "Manuel G",
+              "fecsalHTD": "2023-03-04",
+              "fecentHTD": "2023-09-13"
+          },
+          {
+              "idHTD": "E01720230913",
+              "hnohasHTD": "Manuel G",
+              "fecsalHTD": "2023-09-13",
+              "fecentHTD": "2024-04-16"
+          },
+          {
+              "idHTD": "E01720240416",
+              "hnohasHTD": "Manuel G",
+              "fecsalHTD": "2024-04-16",
+              "fecentHTD": ""
+          }
+      ]
+  },
+  {
+      "codTerr": "E018",
+      "historico": [
+          {
+              "idHTD": "E01820221232",
+              "hnohasHTD": "CierreAño",
+              "fecsalHTD": "2022-12-32",
+              "fecentHTD": "2023-03-05"
+          },
+          {
+              "idHTD": "E01820240201",
+              "hnohasHTD": "Rafael",
+              "fecsalHTD": "2024-02-01",
+              "fecentHTD": "2024-08-12"
+          }
+      ]
+  }
+]

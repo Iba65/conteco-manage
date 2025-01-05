@@ -1,0 +1,157 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  width: 100;
+  user-select: none;
+}
+#root {
+  box-sizing: border-box;
+  width: 100%;
+}
+.appContainer {
+  box-sizing: border-box;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}
+.homeContainer {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+}
+.iconActions {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: lightgray;
+  border-radius: 20px;
+  border: solid 2px rgb(49, 53, 63);
+  padding: 10px;
+  margin-top: 50px;
+  user-select: none;
+}
+/*----------- listado historico de territorios ------------*/
+.listDataContainer {
+  width: 100%;
+}
+.listHead {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  background-color: chocolate;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+}
+.listbody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  color: chocolate;
+  font-size: 14px;
+}
+.listLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  color: chocolate;
+  font-size: 14px;
+}
+.listfooter {
+  margin-top: 10px;
+  width: 100%;
+  padding: 5px;
+  border-top: solid 1px gray;
+  text-align: center;
+}
+.listfooter img {
+  cursor: pointer;
+}
+/*--*/
+.headCodt,
+.lineDatId {
+  width: 110px;
+}
+.headEstado,
+.lineDatState {
+  width: 100px;
+}
+.headDateSal,
+.headDateEnt,
+.lineDatExit,
+.lineDatIndor {
+  width: 130px;
+}
+.headHno,
+.lineDatHno {
+  width: 180px;
+}
+.lineDatExit,
+.lineDatIndor {
+  text-align: center;
+}
+.headActions,
+.lineDatAction {
+  width: 100px;
+}
+.lineDatAction {
+  text-align: center;
+}
+.lineDatAction img {
+  cursor: pointer;
+}
+
+/*  contenedor de usuarios  */
+.GeneralListContiner {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(79, 91, 121, 0.094);
+  height: auto;
+  min-height: 75vh;
+  border: solid 2px rgb(79, 91, 121);
+  border-radius: 20px;
+  margin: 10px auto;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  overflow: auto;
+}
+
+/* contenedor carrito */
+.CarritoListContiner {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(79, 91, 121, 0.094);
+  height: auto;
+  min-height: 75vh;
+  border: solid 2px rgb(79, 91, 121);
+  border-radius: 20px;
+  margin: 10px auto;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  overflow: auto;
+}
