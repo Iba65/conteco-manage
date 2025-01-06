@@ -906,7 +906,8 @@ export const vidaMinister = [
           {
             idasig: 8,
             time: 5,
-            title: "El sábado 15 de marzo comienza la campaña de la Conmemoración.",
+            title:
+              "El sábado 15 de marzo comienza la campaña de la Conmemoración.",
             base: "Discurso a cargo del superintendente de servicio. Explique los planes de la congregación para la campaña, el dicurso especial y la Conmemoración. Anime a todos a predicar más durante marzo y abril.",
           },
           {
@@ -979,7 +980,8 @@ export const vidaMinister = [
           {
             idasig: 7,
             time: 15,
-            title: "Haga todo lo posible por mantenerse casto durante el noviazgo.",
+            title:
+              "Haga todo lo posible por mantenerse casto durante el noviazgo.",
             base: "ver hoja de vida y ministerio",
             punt: "Analisis con el auditorio",
           },
@@ -988,6 +990,159 @@ export const vidaMinister = [
             time: 30,
             title: "Estudio Bíblico de la congragación",
             base: "bt cap. 24 párrs. 1-6.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 13,
+    franja: "24/03-30/03",
+    sections: [
+      {
+        id: "01",
+        parts: [
+          {
+            idasig: 1,
+            time: 10,
+            title: "¿Qué aprendemos de las hormigas?",
+            base: "Proverbios 6:6,7,8,9-11",
+          },
+          {
+            idasig: 2,
+            time: 10,
+            title: "Busquemos perlas escondidas",
+            base: "Proverbios 6",
+          },
+          {
+            idasig: 3,
+            time: 4,
+            title: "Lectura de la Biblia",
+            base: "Proverbios 6:1-26",
+            punt: "th lección 10",
+          },
+        ],
+      },
+      {
+        id: "02",
+        parts: [
+          {
+            idasig: 4,
+            time: 4,
+            title: "Empiece conversaciones",
+            base: "PREDICACIÓN INFORMAL. Invite a un familiar inactivo al discurso especial y a la Conmemoración.",
+            punt: "lmd lección 4 punto 3",
+          },
+          {
+            idasig: 5,
+            time: 4,
+            title: "Empiece conversaciones",
+            base: "PREDICACIÓN INFORMAL. Pídale a su jefe que le dé tiempo libre para asistir a la Conmemoración.",
+            punt: "lmd lección 3 punto 3",
+          },
+          {
+            idasig: 6,
+            time: 4,
+            title: "Empiece conversaciones",
+            base: "PREDICACIÓN INFORMAL. Invite a la persona al discurso especial y a la Conmemoración.",
+            punto: "lmd lección 5 punto 3",
+          },
+        ],
+      },
+      {
+        id: "03",
+        parts: [
+          {
+            idasig: 7,
+            time: 5,
+            title: "La creación demuestra que jehová desea vernos felices.",
+            base: "ver hoja de vida y ministerio",
+            punt: "Analisis con el auditorio",
+          },
+          {
+            idasig: 8,
+            time: 10,
+            title: "Necesidades de la congregación",
+          },
+          {
+            idasig: 9,
+            time: 30,
+            title: "Estudio Bíblico de la congragación",
+            base: "bt cap. 24 párrs. 7-12 y recuadro de la pág. 193.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 14,
+    franja: "31/03-6/04",
+    sections: [
+      {
+        id: "01",
+        parts: [
+          {
+            idasig: 1,
+            time: 10,
+            title: "Evitemos las situaciones peligrosas",
+            base: "Proverbios 7:7-9,10,13-21,22,23",
+          },
+          {
+            idasig: 2,
+            time: 10,
+            title: "Busquemos perlas escondidas",
+            base: "Proverbios 7",
+          },
+          {
+            idasig: 3,
+            time: 4,
+            title: "Lectura de la Biblia",
+            base: "Proverbios 7:6-20",
+            punt: "th lección 2",
+          },
+        ],
+      },
+      {
+        id: "02",
+        parts: [
+          {
+            idasig: 4,
+            time: 4,
+            title: "Haga revisitas",
+            base: "DE CASA EN CASA. En la visita anterior, la persona aceptó la invitación a la Conmemoración y mostró interés.",
+            punt: "lmd lección 9 punto 5",
+          },
+          {
+            idasig: 5,
+            time: 4,
+            title: "Haga revisitas",
+            base: "PREDICACIÓN INFORMAL. La última vez que conversaron, la persona aceptó la invitación a la Conmemoración y mostró interés.",
+            punt: "lmd lección 9 punto 4",
+          },
+          {
+            idasig: 6,
+            time: 4,
+            title: "Haga revisitas",
+            base: "PREDICACIÓN PÚBLICA. La última vez que conversaron, la persona aceptó la invitación a la Conmemoración y mostró interés.",
+            punto: "lmd lección 9 punto 3",
+          },
+        ],
+      },
+      {
+        id: "03",
+        parts: [
+          {
+            idasig: 7,
+            time: 15,
+            title: "Un momento conveniente para tentarnos (Luc. 4:6).",
+            base: "ver hoja de vida y ministerio",
+            punt: "Analisis con el auditorio",
+          },
+          {
+            idasig: 8,
+            time: 30,
+            title: "Estudio Bíblico de la congragación",
+            base: "bt cap. 24 párrs. 13-21.",
           },
         ],
       },
