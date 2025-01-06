@@ -766,5 +766,231 @@ export const vidaMinister = [
       },
     ],
   },
+  {
+    id: 10,
+    franja: "3/03-9/03",
+    sections: [
+      {
+        id: "01",
+        parts: [
+          {
+            idasig: 1,
+            time: 10,
+            title: "Demuestre que confía en Jehová.",
+            base: "Proverbios 3:5,6,7",
+          },
+          {
+            idasig: 2,
+            time: 10,
+            title: "Busquemos perlas escondidas",
+            base: "Proverbios 3",
+          },
+          {
+            idasig: 3,
+            time: 4,
+            title: "Lectura de la Biblia",
+            base: "Proverbios 3:1-18",
+            punt: "th lección 12",
+          },
+        ],
+      },
+      {
+        id: "02",
+        parts: [
+          {
+            idasig: 4,
+            time: 4,
+            title: "Empiece conversaciones",
+            base: "DE CASA EN CASA. Venza una objeción común en su territorio.",
+            punt: "lmd lección 1 punto 5",
+          },
+          {
+            idasig: 5,
+            time: 3,
+            title: "Empieze conversacines",
+            base: "PREDICACIÓN PÚBLICA. Háblele a la persona sobre jw.org y entréguele una tarjeta de contacto.",
+            punt: "lmd lección 3 punto 3",
+          },
+          {
+            idasig: 6,
+            time: 5,
+            title: "Discurso",
+            base: "w11 15/3 14 párrs. 7-10. Título: Demuestre que confía en Dios cuando les predique a quienes no tienen interés.",
+            punto: "th lección 20",
+          },
+        ],
+      },
+      {
+        id: "03",
+        parts: [
+          {
+            idasig: 7,
+            time: 15,
+            title: "Demuestre que confía en la organización de Jehová",
+            base: "ver hoja de vida y ministerio",
+            punt: "Analisis con el auditorio",
+          },
+          {
+            idasig: 8,
+            time: 30,
+            title: "Estudio Bíblico de la congragación",
+            base: "bt cap. 23 párrs. 9-15 y recuadros de las págs. 184, 186.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 11,
+    franja: "10/03-16/03",
+    sections: [
+      {
+        id: "01",
+        parts: [
+          {
+            idasig: 1,
+            time: 10,
+            title: "Protege tu corazón.",
+            base: "Salmos 51: 6; Proverbios 4:23",
+          },
+          {
+            idasig: 2,
+            time: 10,
+            title: "Busquemos perlas escondidas",
+            base: "Proverbios 4",
+          },
+          {
+            idasig: 3,
+            time: 4,
+            title: "Lectura de la Biblia",
+            base: "Proverbios 4:1-18",
+            punt: "th lección 12",
+          },
+        ],
+      },
+      {
+        id: "02",
+        parts: [
+          {
+            idasig: 4,
+            time: 3,
+            title: "Empiece conversaciones",
+            base: "DE CASA EN CASA. La persona muestra interés cuando le entrega la invitación a la Conmemoración.",
+            punt: "lmd lección 1 punto 5",
+          },
+          {
+            idasig: 5,
+            time: 4,
+            title: "Empieze conversacines",
+            base: "PREDICACIÓN INFORMAL. Invite a un conocido a la Conmemoración.",
+            punt: "lmd lección 2 punto 3",
+          },
+          {
+            idasig: 6,
+            time: 5,
+            title: "Explique sus creencias",
+            base: "Escenificación. ijwfq artículo 19. Tema: ¿Por qué no celebran el Domingo de Pascua los testigos de Jehová.",
+            punto: "lmd lección 3 punto 4",
+          },
+        ],
+      },
+      {
+        id: "03",
+        parts: [
+          {
+            idasig: 7,
+            time: 10,
+            title: "Logros de la organización del mes de marzo.",
+            base: "Video",
+          },
+          {
+            idasig: 8,
+            time: 5,
+            title: "El sábado 15 de marzo comienza la campaña de la Conmemoración.",
+            base: "Discurso a cargo del superintendente de servicio. Explique los planes de la congregación para la campaña, el dicurso especial y la Conmemoración. Anime a todos a predicar más durante marzo y abril.",
+          },
+          {
+            idasig: 9,
+            time: 30,
+            title: "Estudio Bíblico de la congragación",
+            base: "bt cap. 23 párrs. 16-19 y recuadro de la pág. 188.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 12,
+    franja: "17/03-23/03",
+    sections: [
+      {
+        id: "01",
+        parts: [
+          {
+            idasig: 1,
+            time: 10,
+            title: "Manténgase lejos de la inmoralidad sexual.",
+            base: "Proverbios 5:3,4,5,8",
+          },
+          {
+            idasig: 2,
+            time: 10,
+            title: "Busquemos perlas escondidas",
+            base: "Proverbios 5",
+          },
+          {
+            idasig: 3,
+            time: 4,
+            title: "Lectura de la Biblia",
+            base: "Proverbios 5:1-23",
+            punt: "th lección 5",
+          },
+        ],
+      },
+      {
+        id: "02",
+        parts: [
+          {
+            idasig: 4,
+            time: 3,
+            title: "Empiece conversaciones",
+            base: "PREDICACIÓN PÚBLICA. Invite a la Conmemoración a una persona que no tiene antecedentes cristianos. Muéstrele cómo encontrar en jw.org dónde puede asistir.",
+            punt: "lmd lección 6 punto 4",
+          },
+          {
+            idasig: 5,
+            time: 4,
+            title: "Haga revisitas",
+            base: "DE CASA EN CASA. En la visita anterior, la persona aceptó la invitación a la Conmemoración y mostro interés.",
+            punt: "lmd lección 9 punto 5",
+          },
+          {
+            idasig: 6,
+            time: 5,
+            title: "Haga discípulos",
+            base: "lff lección 16 resumen, repaso y 'Propóngase esto'. El estudiente le pregunta si Jesús estaba casado. Enséñele a buscar la respuesta por sí mismo.",
+            punto: "lmd lección 11 punto 4",
+          },
+        ],
+      },
+      {
+        id: "03",
+        parts: [
+          {
+            idasig: 7,
+            time: 15,
+            title: "Haga todo lo posible por mantenerse casto durante el noviazgo.",
+            base: "ver hoja de vida y ministerio",
+            punt: "Analisis con el auditorio",
+          },
+          {
+            idasig: 8,
+            time: 30,
+            title: "Estudio Bíblico de la congragación",
+            base: "bt cap. 24 párrs. 1-6.",
+          },
+        ],
+      },
+    ],
+  },
 ];
-
