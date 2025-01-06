@@ -59,10 +59,20 @@ const ExhibidoComponent = ({ session, setMenu }) => {
     setMonth(fecact.getMonth() + 1);
     if (
       !cuadraData.some((objeto) =>
-        objeto.hasOwnProperty(`${fecact.getFullYear()}${String(fecact.getMonth() + 1).padStart(2,"0")}`)
+        objeto.hasOwnProperty(
+          `${fecact.getFullYear()}${String(fecact.getMonth() + 1).padStart(
+            2,
+            "0"
+          )}`
+        )
       )
     ) {
-      newcuaData[`${fecact.getFullYear()}${String(fecact.getMonth() + 1).padStart(2,"0")}`] = [
+      newcuaData[
+        `${fecact.getFullYear()}${String(fecact.getMonth() + 1).padStart(
+          2,
+          "0"
+        )}`
+      ] = [
         {
           dia: "0u",
           asings: [],
@@ -213,13 +223,13 @@ const ExhibidoComponent = ({ session, setMenu }) => {
     if (cuaMesData.length > 0) {
       const cuaMesDataIds = transCuaData(cuaMesData, listHnosCar);
       const [selobj] = cuadraData.filter((objeto) =>
-        objeto.hasOwnProperty(`${year}${month}`)
+        objeto.hasOwnProperty(`${year}${month.toString().padStart(2, "0")}`)
       );
       if (undefined !== selobj) {
         const newdata = cuadraData.map((elem) => {
-          if (elem.hasOwnProperty(`${year}${month}`)) {
+          if (elem.hasOwnProperty(`${year}${month.toString().padStart(2, "0")}`)) {
             return {
-              [`${year}${month}`]: cuaMesDataIds,
+              [`${year}${month.toString().padStart(2, "0")}`]: cuaMesDataIds,
             };
           } else {
             return elem;

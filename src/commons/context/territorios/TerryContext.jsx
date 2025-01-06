@@ -342,11 +342,12 @@ export const TerryProvider = ({ children }) => {
     });
   };
   const loadMouthCuad = (year, month) => {
+    const mesStr = month.toString().padStart(2, "0");
     const [selobj] = cuadranteData.filter((objeto) =>
-      objeto.hasOwnProperty(`${year}${month}`)
+      objeto.hasOwnProperty(`${year}${mesStr}`)
     );
     if (undefined !== selobj) {
-      return selobj[`${year}${month}`];
+      return selobj[`${year}${mesStr}`];
     } else {
       return {};
     }
@@ -360,7 +361,7 @@ export const TerryProvider = ({ children }) => {
         sectionid = dat.dia.slice(-1);
         const fecdata =
           year.toString() +
-          month.toString() +
+          month.toString().padStart(2, "0") +
           (dat.dia.slice(0, -1).length > 1
             ? dat.dia.slice(0, -1)
             : `0${dat.dia.slice(0, -1)}`);

@@ -79,10 +79,17 @@ const ExhibidorManage = ({
       if (diasem !== 1) repite = true;
     }
   } else {
-    if (celdas.length <= 0) {
+    if (celdas.length <= 0 && primerDiaSemana !== 1) {
       for (let i = 1; i <= primerDiaSemana; i++) {
         if (i !== 3) {
+          //if (i === 1) {
+          //  celdas.push(<div key={`empty-${0}`} style={estiloCelda}></div>);
+          //}
           celdas.push(<div key={`empty-${i}`} style={estiloCelda}></div>);
+        } else {
+          if (i === primerDiaSemana){
+            celdas.push(<div key={`empty-${i+1}`} style={estiloCelda}></div>);
+          }
         }
         diasem = i - 1;
         if (diasem !== 1) repite = true;
