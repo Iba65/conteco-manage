@@ -330,14 +330,15 @@ export const TerryProvider = ({ children }) => {
       });
     });
   };
-  const isMouthinData = (mouth) => {
+  const isMouthinData = (year, mouth) => {
+    const stryear = year.toString();
     const mesStr = mouth.toString().padStart(2, "0");
     // Recorremos cada objeto en el array
     return cuadranteData.some((obj) => {
       // Obtenemos las claves de cada objeto
       return Object.keys(obj).some((key) => {
         // Verificamos si los caracteres 5 y 6 de la clave coinciden con el mes dado
-        return key.slice(4, 6) === mesStr;
+        return key.slice(0, 6) === `${stryear}${mesStr}`;
       });
     });
   };

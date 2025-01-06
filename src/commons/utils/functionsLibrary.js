@@ -259,3 +259,36 @@ export const obtenerNombreMes = (month) => {
   ];
   return meses[month - 1];
 };
+
+export function getWeekDays(year, week) {
+  // Obtener el primer día del año
+  const firstDayOfYear = new Date(year, 0, 1);
+
+  // Calcular el día en el que comienza la semana 1 (ISO 8601: primer jueves del año)
+  const firstThursday = new Date(
+      year, 0, 1 + ((4 - firstDayOfYear.getDay() + 7) % 7)
+  );
+
+  // Determinar el inicio de la semana dada (semana - 1 porque se cuenta desde la semana 1)
+  const startOfWeek = new Date(
+      firstThursday.getTime() + (week - 1) * 7 * 24 * 60 * 60 * 1000
+  );
+
+  // Obtener los días de la semana
+  const weekDays = [];
+  for (let i = 0; i < 7; i++) {
+      const day = new Date(startOfWeek.getTime() + i * 24 * 60 * 60 * 1000);
+      weekDays.push({
+          day: day.getDate(),
+          month: day.getMonth() + 1, // Los meses comienzan desde 0
+      });
+  }
+
+  // Ejemplo de uso
+  //const year = 2023;
+  //const week = 5;
+  //console.log(getWeekDays(year, week));
+  
+  return weekDays;
+}
+

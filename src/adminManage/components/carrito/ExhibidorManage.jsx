@@ -279,7 +279,7 @@ const ExhibidorManage = ({
               style={{
                 margin: "3px 5px",
                 padding: "0px 10px",
-                border: isMouthinData(mo.id)
+                border: isMouthinData(year, mo.id)
                   ? "solid 1px #27395b"
                   : "solid 1px #b7c3da",
                 borderRadius: "30px",
@@ -287,8 +287,8 @@ const ExhibidorManage = ({
                   parseInt(mo.id) === parseInt(month)
                     ? "white"
                     : " rgba(79, 91, 121, 0)",
-                color: isMouthinData(mo.id) ? "#27395b" : "#b7c3da",
-                cursor: isMouthinData(mo.id) ? "pointer" : "auto",
+                color: isMouthinData(year, mo.id) ? "#27395b" : "#b7c3da",
+                cursor: isMouthinData(year, mo.id) ? "pointer" : "auto",
               }}
               onClick={() => loadMonthData(year, mo.id)}
             >
